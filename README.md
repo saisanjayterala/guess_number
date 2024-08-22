@@ -2,6 +2,7 @@
 **Guess the Number Ultimate**
 
 **Repository:** https://github.com/saisanjayterala/guess_number
+![image](https://github.com/user-attachments/assets/0efc487d-e564-4127-82dd-7a9fa6e4025f)
 
 ### Features
 * Multiple difficulty levels
